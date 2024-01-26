@@ -1,10 +1,11 @@
 import React from "react";
 import './About.css'
+
 export default function About(){
     return(
         <main className="about-main">
             <div className="txt-about">
-            <h1><strong>Who I am ?</strong></h1>
+            <h1 id="heading-about"><strong>Who I am ?</strong></h1>
             <p id="txt-main-para">Originally from the vibrant community
              of Mount Lavinia and currently 19 years old, I find myself
             deeply entrenched in the dynamic world of software

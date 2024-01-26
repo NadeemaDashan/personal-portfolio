@@ -4,6 +4,7 @@ import Header from './components/Header'
 import Intro from './components/Intro'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import About from './components/About'
+import Work from './components/Work'
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <Header/>
     <Intro></Intro>
     <About></About>
+    <Work></Work>
     </div>
 
   )
