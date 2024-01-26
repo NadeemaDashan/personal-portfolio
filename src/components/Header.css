@@ -1,0 +1,24 @@
+#header-h1{
+  font-family: "Bakbak One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 2%;
+  margin-right: auto;
+}
+
+.header-content{
+    display: flex;
+    align-items: center;
+    background-color: #16E0BD;
+}
+.header-items{
+    display: flex;
+    justify-content: space-around;
+    column-gap: 2rem;
+    list-style-type: none;
+    padding: 3%;
+    
+}
+
+
+
