@@ -5,6 +5,7 @@ import Intro from './components/Intro'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import About from './components/About'
 import Work from './components/Work'
+import Cv from './components/Cv'
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
     <Intro></Intro>
     <About></About>
     <Work></Work>
+    <Cv></Cv>
     </div>
 
   )

@@ -5,13 +5,14 @@
 }
 
 .top-work{
+
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-end;
 }
 
 .top-work >h1{
+
     color: white;
     margin-top: 3%;
     font-size: 5vw;
@@ -26,12 +27,14 @@
 }
 
 .work-content{
+
     margin:5% 0% 2% 0%;
     display:flex;
     column-gap: 2%;
 }
 
 .git-link{
+
     display: block;
    text-align: center;
    margin-bottom:5% ;
@@ -52,4 +55,30 @@ a:link {
   a:active { 
     text-decoration: none; 
     color: rgb(43, 43, 43);
+  }
+
+  .work-description{
+
+    margin: 5% 20% 0% 20%;
+    display: flex;
+    flex-direction:center;
+    align-items: center;
+    justify-content: center;
+  }
+  .work-description-para{
+  
+    margin: 4%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .work-description-para>h5{
+    color: white;
+    font-size: 25px;
+    background-color: #16E0BD;
+    padding: 1.5% 1.7%;
+  }
+
+  .work-description-para>p{
+    color: white;
   }

@@ -1,0 +1,24 @@
+.cv-section{
+    display: flex;
+    margin-top: 10%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#heading-cv{
+    font-weight: 600;
+    margin-bottom: 2%;
+}
+
+#heading-5-cv{
+    font-size: 23px;
+    margin-bottom: 3%;
+}
+
+#btn-cv{
+    background-color: #16E0BD;
+    padding: 0.8% 1.8%;
+    border-radius: 6px;
+    box-shadow: none;
+}
