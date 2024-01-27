@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import About from './components/About'
 import Work from './components/Work'
 import Cv from './components/Cv'
+import Footer from './components/Footer';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
     <About></About>
     <Work></Work>
     <Cv></Cv>
+    <Footer></Footer>
     </div>
 
   )
